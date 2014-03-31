@@ -1,3 +1,5 @@
+DELIMITERS = "<.>" ; 
+
 LIST N = n ;
 
 SECTION
