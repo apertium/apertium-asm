@@ -1,0 +1,9 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-asm
+srcdir=@datarootdir@/apertium/apertium-asm
+
+Name: apertium-asm
+Description: Finite-state morphological transducer for Assamese
+Version: @VERSION@
