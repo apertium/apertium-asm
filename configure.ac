@@ -19,6 +19,18 @@ then
   AC_MSG_ERROR([You don't have pkg-config installed.])
 fi
 
+
+AC_PATH_PROG(CGCOMP, cg-comp, no)
+if test x$ac_cv_path_CGCOMP = x
+then
+  AC_MSG_ERROR([You don't have cg-comp installed.])
+fi
+if test x$ac_cv_path_CGPROC = xno
+then
+  AC_MSG_ERROR([You don't have cg-comp installed.])
+fi
+
+
 AP_MKINCLUDE
 
 AC_OUTPUT([Makefile apertium-asm.pc])
