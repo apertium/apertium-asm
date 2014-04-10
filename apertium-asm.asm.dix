@@ -42,14 +42,13 @@
     <sdef n="adj"/>       <!-- adjectives --> 
     <sdef n="ot"/>      <!-- others -->
     <sdef n="num"/>       <!-- numerals -->
-    <sdef n="sep"/>       <!-- punctuation -->
-    <sdef n="sent"/>       <!-- sentence ending punctuation -->
+    <sdef n="sent"/>       <!-- punctuation -->
     </sdefs>
 
   <pardefs>
   <!-- Punctuation -->
-    <pardef n="sep">
-      <e><p><l/><r><s n="sep"/></r></p></e>
+    <pardef n="sent">
+      <e><p><l/><r><s n="sent"/></r></p></e>
         </pardef>
 
     <pardef n="sent">
@@ -456,10 +455,10 @@
     <e lm="৮"><i>৮</i><par n="num"/></e>
     <e lm="৯"><i>৯</i><par n="num"/></e>
   
-    <e lm="."><i>.</i><par n="sep"/></e>
-    <e lm="\"><i>\</i><par n="sep"/></e>
-    <e lm=";"><i>;</i><par n="sep"/></e>
-    <e lm=":"><i>:</i><par n="sep"/></e>
+    <e lm="."><i>.</i><par n="sent"/></e>
+    <e lm="\"><i>\</i><par n="sent"/></e>
+    <e lm=";"><i>;</i><par n="sent"/></e>
+    <e lm=":"><i>:</i><par n="sent"/></e>
 
     <e lm="!"><i>!</i><par n="sent"/></e>
     <e lm="৷"><i>৷</i><par n="sent"/></e>
