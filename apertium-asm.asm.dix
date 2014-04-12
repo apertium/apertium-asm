@@ -167,10 +167,10 @@
     </pardef>
 
     <pardef n="places_n">
-      <e><p><l/><r><s n="np"/></r></p></e>
-      <e><p><l>ত</l><r><s n="np"/><s n="acc"/></r></p></e>
-      <e><p><l>লৈ</l><r><s n="np"/><s n="acc"/></r></p></e>
-      <e><p><l>ৰ</l><r><s n="np"/><s n="erg"/></r></p></e>
+      <e><p><l/><r><s n="np"/><s n="top"/><s n="nom"/></r></p></e>
+      <e><p><l>ত</l><r><s n="np"/><s n="top"/><s n="acc"/></r></p></e>
+      <e><p><l>লৈ</l><r><s n="np"/><s n="top"/><s n="acc"/></r></p></e>
+      <e><p><l>ৰ</l><r><s n="np"/><s n="top"/><s n="erg"/></r></p></e>
 
     </pardef>
 
