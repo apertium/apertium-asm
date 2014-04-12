@@ -51,10 +51,6 @@
       <e><p><l/><r><s n="sent"/></r></p></e>
         </pardef>
 
-    <pardef n="sent">
-      <e><p><l/><r><s n="sent"/></r></p></e>
-        </pardef>
-
   <!-- Numerals -->
         <pardef n="num">
       <e><p><l/><r><s n="num"/></r></p></e>
@@ -455,6 +451,7 @@
     <e lm="৮"><i>৮</i><par n="num"/></e>
     <e lm="৯"><i>৯</i><par n="num"/></e>
   
+    <e lm="।"><i>।</i><par n="sent"/></e>
     <e lm="."><i>.</i><par n="sent"/></e>
     <e lm="\"><i>\</i><par n="sent"/></e>
     <e lm=";"><i>;</i><par n="sent"/></e>
