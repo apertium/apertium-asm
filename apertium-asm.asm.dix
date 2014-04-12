@@ -18,6 +18,7 @@
     <sdef n="f"/>    <!-- female -->
     <sdef n="erg"/>    <!-- subject -->
     <sdef n="acc"/>    <!-- object -->
+    <sdef n="top"/>    <!-- top -->
     <sdef n="nom"/>    <!-- object -->
     <sdef n="where"/>  <!-- where -->
     <sdef n="gen"/>  <!-- possessive -->
