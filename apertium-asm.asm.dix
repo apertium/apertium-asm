@@ -34,7 +34,7 @@
     <sdef n="pastperf"/>    <!-- past perfect -->
     <sdef n="fut"/>    <!-- future -->
     <sdef n="fam"/>    <!-- lowest courtesy -->
-    <sdef n="mid"/>    <!-- medium courtesy -->
+    <sdef n="frm"/>    <!-- medium courtesy -->
     <sdef n="pol"/>    <!-- highest courtesy -->
     <sdef n="prn"/>    <!-- pronoun -->
     <sdef n="p1"/>    <!-- first person -->
@@ -281,44 +281,44 @@
       <e><p><l>িবি</l><r><s n="vblex"/><s n="fam"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>াবি</l><r><s n="vblex"/><s n="fam"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>বি</l><r><s n="vblex"/><s n="fam"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>া</l><r><s n="vblex"/><s n="mid"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>খোৱা</l><r>খা<s n="vblex"/><s n="mid"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>া</l><r><s n="vblex"/><s n="mid"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>খোৱা</l><r>খা<s n="vblex"/><s n="mid"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ি<b/>আছা</l><r><s n="vblex"/><s n="mid"/><s n="prescont"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ই<b/>আছা</l><r><s n="vblex"/><s n="mid"/><s n="prescont"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>গ'ই<b/>আছা</l><r>জা<s n="vblex"/><s n="mid"/><s n="prescont"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ি<b/>আছা</l><r><s n="vblex"/><s n="mid"/><s n="prescont"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ই<b/>আছা</l><r><s n="vblex"/><s n="mid"/><s n="prescont"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>গ'ই<b/>আছা</l><r>জা<s n="vblex"/><s n="mid"/><s n="prescont"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>িলা</l><r><s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ালা</l><r><s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>লা</l><r><s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>গ'লা</l><r>জা<s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>িলা</l><r><s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ালা</l><r><s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>লা</l><r><s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>গ'লা</l><r>জা<s n="vblex"/><s n="mid"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ি<b/>আছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastcont"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ই<b/>আছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastcont"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>গ'ই<b/>আছিলা</l><r>জা<s n="vblex"/><s n="mid"/><s n="pastcont"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ি<b/>আছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastcont"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ই<b/>আছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastcont"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>গ'ই<b/>আছিলা</l><r>জা<s n="vblex"/><s n="mid"/><s n="pastcont"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>িছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastperf"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ইছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastperf"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>গ'ইছিলা</l><r>জা<s n="vblex"/><s n="mid"/><s n="pastperf"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>িছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastperf"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ইছিলা</l><r><s n="vblex"/><s n="mid"/><s n="pastperf"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>গ'ইছিলা</l><r>জা<s n="vblex"/><s n="mid"/><s n="pastperf"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>িবা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>াবা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>বা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>      
-      <e><p><l>'বা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>      
-      <e><p><l>িবা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>াবা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>বা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>'বা</l><r><s n="vblex"/><s n="mid"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>া</l><r><s n="vblex"/><s n="frm"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>খোৱা</l><r>খা<s n="vblex"/><s n="frm"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>া</l><r><s n="vblex"/><s n="frm"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>খোৱা</l><r>খা<s n="vblex"/><s n="frm"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ি<b/>আছা</l><r><s n="vblex"/><s n="frm"/><s n="prescont"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ই<b/>আছা</l><r><s n="vblex"/><s n="frm"/><s n="prescont"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>গ'ই<b/>আছা</l><r>জা<s n="vblex"/><s n="frm"/><s n="prescont"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ি<b/>আছা</l><r><s n="vblex"/><s n="frm"/><s n="prescont"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ই<b/>আছা</l><r><s n="vblex"/><s n="frm"/><s n="prescont"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>গ'ই<b/>আছা</l><r>জা<s n="vblex"/><s n="frm"/><s n="prescont"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>িলা</l><r><s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ালা</l><r><s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>লা</l><r><s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>গ'লা</l><r>জা<s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>িলা</l><r><s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ালা</l><r><s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>লা</l><r><s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>গ'লা</l><r>জা<s n="vblex"/><s n="frm"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ি<b/>আছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastcont"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ই<b/>আছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastcont"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>গ'ই<b/>আছিলা</l><r>জা<s n="vblex"/><s n="frm"/><s n="pastcont"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ি<b/>আছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastcont"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ই<b/>আছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastcont"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>গ'ই<b/>আছিলা</l><r>জা<s n="vblex"/><s n="frm"/><s n="pastcont"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>িছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastperf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ইছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastperf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>গ'ইছিলা</l><r>জা<s n="vblex"/><s n="frm"/><s n="pastperf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>িছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastperf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ইছিলা</l><r><s n="vblex"/><s n="frm"/><s n="pastperf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>গ'ইছিলা</l><r>জা<s n="vblex"/><s n="frm"/><s n="pastperf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>িবা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>াবা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>বা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>      
+      <e><p><l>'বা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>      
+      <e><p><l>িবা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>াবা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>বা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>'বা</l><r><s n="vblex"/><s n="frm"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l>ক</l><r><s n="vblex"/><s n="pol"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l>ওক</l><r><s n="vblex"/><s n="pol"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l>ক</l><r><s n="vblex"/><s n="pol"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
