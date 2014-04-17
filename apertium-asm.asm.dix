@@ -15,6 +15,7 @@
     <sdef n="sg"/>    <!-- singular -->
     <sdef n="pl"/>    <!-- plural -->
     <sdef n="m"/>    <!-- male -->
+    <sdef n="top"/>    <!-- place name -->
     <sdef n="f"/>    <!-- female -->
     <sdef n="erg"/>    <!-- subject -->
     <sdef n="acc"/>    <!-- object -->
@@ -168,10 +169,10 @@
     </pardef>
 
     <pardef n="places_n">
-      <e><p><l/><r><s n="np"/></r></p></e>
-      <e><p><l>ত</l><r><s n="np"/><s n="acc"/></r></p></e>
-      <e><p><l>লৈ</l><r><s n="np"/><s n="acc"/></r></p></e>
-      <e><p><l>ৰ</l><r><s n="np"/><s n="gen"/></r></p></e>
+      <e><p><l/><r><s n="np"/><s n="top"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ত</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>লৈ</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ৰ</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="gen"/></r></p></e>
 
     </pardef>
 
