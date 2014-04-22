@@ -44,6 +44,7 @@
     <sdef n="ot"/>      <!-- others -->
     <sdef n="num"/>       <!-- numerals -->
     <sdef n="sent"/>       <!-- punctuation -->
+	<sdef n="post"/>        <!--Postposition-->
     </sdefs>
 
   <pardefs>
@@ -55,6 +56,11 @@
   <!-- Numerals -->
         <pardef n="num">
       <e><p><l/><r><s n="num"/></r></p></e>
+        </pardef>
+
+<!-- Postposition -->
+        <pardef n="post">
+      <e><p><l/><r><s n="post"/></r></p></e>
         </pardef>
 
     <pardef n="টো_enc">
@@ -438,7 +444,7 @@
     <pardef n="হয়_vbser">
       <e><p><l/><r><s n="vbser"/></r></p></e>
     </pardef>      
-  </pardefs>
+    </pardefs>
 
   <section  id="main" type="standard">
   
@@ -464,7 +470,10 @@
     <e lm="!"><i>!</i><par n="sent"/></e>
     <e lm="৷"><i>৷</i><par n="sent"/></e>
     <e lm="?"><i>?</i><par n="sent"/></e>
-  
+
+<!-- Postposition -->
+    <e lm="পৰা"><i>পৰা</i><par n="post"/></e>
+
   <!-- enclitics -->
     <e lm="টো"><i>টো</i><par n="টো_enc"/></e>
     <e lm="খন"><i>খন</i><par n="টো_enc"/></e>
