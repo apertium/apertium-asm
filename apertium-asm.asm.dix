@@ -95,7 +95,7 @@
       <e><p><l>বোৰ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>বিলাক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>কেইটা</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>বোৰত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
       <e><p><l>বিলাকত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
       <e><p><l>কেইটাত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1396,6 +1396,7 @@
     <e lm="হৈ গ'ল"><i>হৈ<b/>গ'ল</i><par n="হয়_vbser"/></e>
     <e lm="হৈ যাব"><i>হৈ<b/>যাব</i><par n="হয়_vbser"/></e>
     <e lm="হৈছিল"><i>হৈছিল</i><par n="হয়_vbser"/></e>
+    <e lm="আছিল"><i>আছিল</i><par n="হয়_vbser"/></e>
     <e lm="হ'ম"><i>হ'ম</i><par n="হয়_vbser"/></e>
     <e lm="ভাল পাওঁ"><i>ভাল<b/>পাওঁ</i><par n="হয়_vbser"/></e>
     <e lm="নকৰিবি"><i>নকৰিবি</i><par n="হয়_vbser"/></e>
