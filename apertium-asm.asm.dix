@@ -20,7 +20,7 @@
     <sdef n="erg"/>    <!-- subject -->
     <sdef n="acc"/>    <!-- object -->
     <sdef n="nom"/>    <!-- object -->
-    <sdef n="where"/>  <!-- where -->
+    <sdef n="loc"/>  <!-- where -->
     <sdef n="gen"/>  <!-- possessive -->
 
     <sdef n="np"/>       <!-- proper nouns -->
@@ -89,7 +89,7 @@
     <pardef n="বুৰঞ্জী_n">
       <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ৰ</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="where"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>ক</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
     </pardef>
     
