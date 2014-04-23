@@ -17,6 +17,23 @@
     <sdef n="m"/>    <!-- male -->
     <sdef n="top"/>    <!-- place name -->
     <sdef n="f"/>    <!-- female -->
+
+    <sdef n="pri" c="Present indefinite"/>  
+    <sdef n="prd" c="Present definite"/> 
+    <sdef n="fti" c="Future"/> 
+    <sdef n="pii" c="Past imperfect"/> 
+    <sdef n="ifi" c="Simple past"/> 
+
+    <sdef n="cni1" c="Conditional 1"/> 
+    <sdef n="cni2" c="Conditional 2"/> 
+    <sdef n="ger" c="Gerund (verbal noun)"/> 
+    <sdef n="inf" c="Infinitive"/> 
+    <sdef n="gna1" c="Verbal adverb"/> 
+    <sdef n="inf2" c="Infinitive 2"/> 
+    <sdef n="stem" c="Verb stem"/> 
+
+    <sdef n="sp" c="Singular/plural"/> 
+
     <sdef n="erg"/>    <!-- subject -->
     <sdef n="acc"/>    <!-- object -->
     <sdef n="nom"/>    <!-- object -->
@@ -193,6 +210,48 @@
     <pardef n="তুমি_prn">
       <e><p><l/><r><s n="prn"/></r></p></e>
     </pardef>
+
+
+    <!-- SECTION: Verbs -->
+
+    <!-- Fixed:-->
+
+    <pardef n="লিথ__vblex">
+      <e>       <p><l></l><r><s n="vblex"/><s n="stem"/></r></p></e>
+      <e>       <p><l>া</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>োতে</l><r><s n="vblex"/><s n="gna1"/></r></p></e>
+      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="cni1"/></r></p></e>
+      <e>       <p><l>িলত</l><r><s n="vblex"/><s n="cni2"/></r></p></e>
+      <e>       <p><l>ি</l><r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>িব</l><r><s n="vblex"/><s n="inf2"/></r></p></e>
+      <e>       <p><l>িম</l><r><s n="vblex"/><s n="fti"/><s n="p1"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িবা</l><r><s n="vblex"/><s n="fti"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িবি</l><r><s n="vblex"/><s n="fti"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িব</l><r><s n="vblex"/><s n="fti"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িব</l><r><s n="vblex"/><s n="fti"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>ো</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sp"/></r></p></e>
+      <e>       <p><l>া</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
+      <e>       <p><l></l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>ে</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>ে</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলো</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলা</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িল</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলো</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছিলা</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছিল</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছিল</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছিল</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছো</l><r><s n="vblex"/><s n="prd"/><s n="p1"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছা</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছ</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছে</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছে</l><r><s n="vblex"/><s n="prd"/><s n="p3"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <!-- Broken below -->
 
     <pardef n="আহ_vblex">
       <e><p><l>োঁ</l><r><s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -1260,7 +1319,10 @@
     <e lm="ব্যৱস্থা আছে"><i>ব্যৱস্থা<b/>আছে</i><par n="যদি_ot"/></e>
 	<e lm="ভৰি থকা"><i>ভৰি থকা</i><par n="যদি_ot"/></e>
 
-  <!-- verbs -->
+  <!-- SECTION: Verbs -->
+
+    <e lm="লিথ"><i>লিথ</i><par n="লিথ__vblex"/></e>
+
     <e lm="আহ"><i>আহ</i><par n="আহ_vblex"/></e>
     <e lm="জপিয়া"><i>জপিয়া</i><par n="আহ_vblex"/></e>
     <e lm="উঠ"><i>উঠ</i><par n="আহ_vblex"/></e>
