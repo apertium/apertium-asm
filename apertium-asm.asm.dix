@@ -387,6 +387,7 @@
       <e><p><l>গ'ই<b/>আছিল</l><r>জা<s n="vblex"/><s n="fam"/><s n="pastcont"/><s n="p3"/><s n="pl"/></r></p></e>
       <e><p><l>িছিল</l><r><s n="vblex"/><s n="pastperf"/><s n="p3"/><s n="fam"/><s n="sg"/></r></p></e>
       <e><p><l>ইছিল</l><r><s n="vblex"/><s n="pastperf"/><s n="p3"/><s n="fam"/><s n="sg"/></r></p></e>
+      <e><p><l> কৰিছিল</l><r><s n="vblex"/><s n="pastperf"/><s n="p3"/><s n="fam"/><s n="sg"/></r></p></e>
       <e><p><l>গ'ইছিল</l><r>জা<s n="vblex"/><s n="pastperf"/><s n="p3"/><s n="fam"/><s n="sg"/></r></p></e>
       <e><p><l>িছিল</l><r><s n="vblex"/><s n="pastperf"/><s n="p3"/><s n="fam"/><s n="pl"/></r></p></e>
       <e><p><l>ইছিল</l><r><s n="vblex"/><s n="pastperf"/><s n="p3"/><s n="fam"/><s n="pl"/></r></p></e>
@@ -1317,7 +1318,8 @@
     <e lm="লাগ"><i>লাগ</i><par n="আহ_vblex"/></e>
     <e lm="লাগে"><i>লাগে</i><par n="হয়_vbser"/></e>
     <e lm="লিখ"><i>লিখ</i><par n="আহ_vblex"/></e>
-    <e lm="নিৰ্মান"><i>নিৰ্মান</i><par n="আহ_vblex"/></e>
+    <e lm="নিৰ্মাণ"><i>নিৰ্মাণ</i><par n="আহ_vblex"/></e>
+    <e lm="শাসন"><i>শাসন</i><par n="আহ_vblex"/></e>
     <e lm="শু"><i>শু</i><par n="আহ_vblex"/></e>
     <e lm="চিন্তা কৰ"><i>চিন্তা<b/>কৰ</i><par n="আহ_vblex"/></e>
     <e lm="হাঁহ"><i>হাঁহ</i><par n="আহ_vblex"/></e>
