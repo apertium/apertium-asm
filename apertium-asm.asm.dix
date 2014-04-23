@@ -252,6 +252,25 @@
       <e>       <p><l>িছে</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছে</l><r><s n="vblex"/><s n="prd"/><s n="p3"/><s n="sp"/></r></p></e>
     </pardef>
+	
+<pardef n="আছ__vblex">
+      <e>       <p><l></l><r><s n="vblex"/><s n="stem"/></r></p></e>
+      <e>       <p><l>া</l><r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="cni1"/></r></p></e>
+      <e>       <p><l>িলো</l><r><s n="vblex"/><s n="cni1"/></r></p></e>
+      <e>       <p><l>ো</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sp"/></r></p></e>
+      <e>       <p><l>া</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
+      <e>       <p><l></l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
+      <e>       <p><l>ে</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>ে</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলো</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলা</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িল</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলো</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sp"/></r></p></e>
+
+    </pardef>
 
     <!-- Broken below -->
 
@@ -269,6 +288,7 @@
       <e><p><l>গ'ই<b/>আছো</l><r>জা<s n="vblex"/><s n="prescont"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>'ই<b/>আছো</l><r><s n="vblex"/><s n="prescont"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>িলো</l><r><s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>আছিল</l><r><s n="vblex"/><s n="past"/><s n="p2"/><s n="sp"/></r></p></e>
       <e><p><l>ালো</l><r><s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>লো</l><r><s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>গ'লো</l><r>জা<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -1328,6 +1348,7 @@
 
     <e lm="লিথ"><i>লিথ</i><par n="লিথ__vblex"/></e>
     <e lm="কৰ"><i>কৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="আছ"><i>আছ</i><par n="আছ__vblex"/></e>
 
     <e lm="আহ"><i>আহ</i><par n="আহ_vblex"/></e>
     <e lm="জপিয়া"><i>জপিয়া</i><par n="লিথ__vblex"/></e>
@@ -1341,6 +1362,7 @@
     <e lm="হেৰা"><i>হেৰা</i><par n="লিথ__vblex"/></e>
     <e lm="খা"><i>খা</i><par n="লিথ__vblex"/></e>
     <e lm="গা"><i>গা</i><par n="আহ_vblex"/></e>
+    <e lm="আছিল"><i>আছিল</i><par n="আহ_vblex"/></e>
     <e lm="পৰ"><i>পৰ</i><par n="লিথ__vblex"/></e>
     <e lm="ঘট"><i>ঘট</i><par n="লিথ__vblex"/></e>
     <e lm="জা"><i>জা</i><par n="লিথ__vblex"/></e>
@@ -1396,7 +1418,6 @@
     <e lm="হৈ গ'ল"><i>হৈ<b/>গ'ল</i><par n="হয়_vbser"/></e>
     <e lm="হৈ যাব"><i>হৈ<b/>যাব</i><par n="হয়_vbser"/></e>
     <e lm="হৈছিল"><i>হৈছিল</i><par n="হয়_vbser"/></e>
-    <e lm="আছিল"><i>আছিল</i><par n="হয়_vbser"/></e>
     <e lm="হ'ম"><i>হ'ম</i><par n="হয়_vbser"/></e>
     <e lm="ভাল পাওঁ"><i>ভাল<b/>পাওঁ</i><par n="হয়_vbser"/></e>
     <e lm="নকৰিবি"><i>নকৰিবি</i><par n="হয়_vbser"/></e>
