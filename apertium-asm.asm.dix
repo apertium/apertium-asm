@@ -1322,69 +1322,69 @@
   <!-- SECTION: Verbs -->
 
     <e lm="লিথ"><i>লিথ</i><par n="লিথ__vblex"/></e>
+    <e lm="কৰ"><i>কৰ</i><par n="লিথ__vblex"/></e>
 
     <e lm="আহ"><i>আহ</i><par n="আহ_vblex"/></e>
-    <e lm="জপিয়া"><i>জপিয়া</i><par n="আহ_vblex"/></e>
-    <e lm="উঠ"><i>উঠ</i><par n="আহ_vblex"/></e>
-    <e lm="কাট"><i>কাট</i><par n="আহ_vblex"/></e>
-    <e lm="কৰ"><i>কৰ</i><par n="আহ_vblex"/></e>
-    <e lm="কিন"><i>কিন</i><par n="আহ_vblex"/></e>
-    <e lm="কাহ"><i>কাহ</i><par n="আহ_vblex"/></e>
-    <e lm="টান"><i>টান</i><par n="আহ_vblex"/></e>
-    <e lm="খুৱা"><i>খুৱা</i><par n="আহ_vblex"/></e>
-    <e lm="খুল"><i>খুল</i><par n="আহ_vblex"/></e>
-    <e lm="হেৰা"><i>হেৰা</i><par n="আহ_vblex"/></e>
-    <e lm="খা"><i>খা</i><par n="আহ_vblex"/></e>
+    <e lm="জপিয়া"><i>জপিয়া</i><par n="লিথ__vblex"/></e>
+    <e lm="উঠ"><i>উঠ</i><par n="লিথ__vblex"/></e>
+    <e lm="কাট"><i>কাট</i><par n="লিথ__vblex"/></e>
+    <e lm="কিন"><i>কিন</i><par n="লিথ__vblex"/></e>
+    <e lm="কাহ"><i>কাহ</i><par n="লিথ__vblex"/></e>
+    <e lm="টান"><i>টান</i><par n="লিথ__vblex"/></e>
+    <e lm="খুৱা"><i>খুৱা</i><par n="লিথ__vblex"/></e>
+    <e lm="খুল"><i>খুল</i><par n="লিথ__vblex"/></e>
+    <e lm="হেৰা"><i>হেৰা</i><par n="লিথ__vblex"/></e>
+    <e lm="খা"><i>খা</i><par n="লিথ__vblex"/></e>
     <e lm="গা"><i>গা</i><par n="আহ_vblex"/></e>
-    <e lm="পৰ"><i>পৰ</i><par n="আহ_vblex"/></e>
-    <e lm="ঘট"><i>ঘট</i><par n="আহ_vblex"/></e>
-    <e lm="জা"><i>জা</i><par n="আহ_vblex"/></e>
-    <e lm="ঘট"><i>ঘট</i><par n="আহ_vblex"/></e>
-    <e lm="চল"><i>চল</i><par n="আহ_vblex"/></e>
-    <e lm="ব'ল"><i>ব'ল</i><par n="আহ_vblex"/></e>
+    <e lm="পৰ"><i>পৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="ঘট"><i>ঘট</i><par n="লিথ__vblex"/></e>
+    <e lm="জা"><i>জা</i><par n="লিথ__vblex"/></e>
+    <e lm="ঘট"><i>ঘট</i><par n="লিথ__vblex"/></e>
+    <e lm="চল"><i>চল</i><par n="লিথ__vblex"/></e>
+    <e lm="ব'ল"><i>ব'ল</i><par n="লিথ__vblex"/></e>
     <e lm="লাগে"><i>লাগে</i><par n="হয়_vbser"/></e>
-    <e lm="চিঞৰ"><i>চিঞৰ</i><par n="আহ_vblex"/></e>
-    <e lm="চুৰি কৰ"><i>চুৰি<b/>কৰ</i><par n="আহ_vblex"/></e>
-    <e lm="খোজ কাঢ়"><i>খোজ<b/>কাঢ়</i><par n="আহ_vblex"/></e>
-    <e lm="লুকা"><i>লুকা</i><par n="আহ_vblex"/></e>
-    <e lm="কাঢ়"><i>কাঢ়</i><par n="আহ_vblex"/></e>
-    <e lm="এৰ"><i>এৰ</i><par n="আহ_vblex"/></e>
-    <e lm="সাৰ পা"><i>সাৰ<b/>পা</i><par n="আহ_vblex"/></e>
-    <e lm="জিয়া"><i>জিয়া</i><par n="আহ_vblex"/></e>
-    <e lm="কাজিয়া কৰ"><i>কাজিয়া<b/>কৰ</i><par n="আহ_vblex"/></e>
-    <e lm="কাজিয়া লাগ"><i>কাজিয়া<b/>লাগ</i><par n="আহ_vblex"/></e>
-    <e lm="ঠগ"><i>ঠগ</i><par n="আহ_vblex"/></e>
-    <e lm="ঠেল"><i>ঠেল</i><par n="আহ_vblex"/></e>
-    <e lm="ভয় কৰ"><i>ভয়<b/>কৰ</i><par n="আহ_vblex"/></e>
-    <e lm="ডুব"><i>ডুব</i><par n="আহ_vblex"/></e>
-    <e lm="সাঁতোৰ"><i>সাঁতোৰ</i><par n="আহ_vblex"/></e>
-    <e lm="হেঁচা খা"><i>হেঁচা<b/>খা</i><par n="আহ_vblex"/></e>
-    <e lm="হেঁচ"><i>হেঁচ</i><par n="আহ_vblex"/></e>
-    <e lm="দেখ"><i>দেখ</i><par n="আহ_vblex"/></e>
-    <e lm="চা"><i>চা</i><par n="আহ_vblex"/></e>
-    <e lm="দৌৰ"><i>দৌৰ</i><par n="আহ_vblex"/></e>
-    <e lm="গা ধু"><i>গা<b/>ধু</i><par n="আহ_vblex"/></e>
-    <e lm="আছিল"><i>আছিল</i><par n="আহ_vblex"/></e>
-    <e lm="ওলা"><i>ওলা</i><par n="আহ_vblex"/></e>
-    <e lm="উলিয়া"><i>উলিয়া</i><par n="আহ_vblex"/></e>
-    <e lm="ধৰ"><i>ধৰ</i><par n="আহ_vblex"/></e>
-    <e lm="ৰান্ধ"><i>ৰান্ধ</i><par n="আহ_vblex"/></e>
-    <e lm="পঢ়"><i>পঢ়</i><par n="আহ_vblex"/></e>
-    <e lm="চিনি পা"><i>চিনি<b/>পা</i><par n="আহ_vblex"/></e>
-    <e lm="পিন্ধ"><i>পিন্ধ</i><par n="আহ_vblex"/></e>
-    <e lm="ফাট"><i>ফাট</i><par n="আহ_vblex"/></e>
-    <e lm="বাজ"><i>বাজ</i><par n="আহ_vblex"/></e>
-    <e lm="বজা"><i>বজা</i><par n="আহ_vblex"/></e>
-    <e lm="বনা"><i>বনা</i><par n="আহ_vblex"/></e>
-    <e lm="বহ"><i>বহ</i><par n="আহ_vblex"/></e>
-    <e lm="লাগ"><i>লাগ</i><par n="আহ_vblex"/></e>
+    <e lm="চিঞৰ"><i>চিঞৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="চুৰি কৰ"><i>চুৰি<b/>কৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="খোজ কাঢ়"><i>খোজ<b/>কাঢ়</i><par n="লিথ__vblex"/></e>
+    <e lm="লুকা"><i>লুকা</i><par n="লিথ__vblex"/></e>
+    <e lm="কাঢ়"><i>কাঢ়</i><par n="লিথ__vblex"/></e>
+    <e lm="এৰ"><i>এৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="সাৰ পা"><i>সাৰ<b/>পা</i><par n="লিথ__vblex"/></e>
+    <e lm="জিয়া"><i>জিয়া</i><par n="লিথ__vblex"/></e>
+    <e lm="কাজিয়া কৰ"><i>কাজিয়া<b/>কৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="কাজিয়া লাগ"><i>কাজিয়া<b/>লাগ</i><par n="লিথ__vblex"/></e>
+    <e lm="ঠগ"><i>ঠগ</i><par n="লিথ__vblex"/></e>
+    <e lm="ঠেল"><i>ঠেল</i><par n="লিথ__vblex"/></e>
+    <e lm="ভয় কৰ"><i>ভয়<b/>কৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="ডুব"><i>ডুব</i><par n="লিথ__vblex"/></e>
+    <e lm="সাঁতোৰ"><i>সাঁতোৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="হেঁচা খা"><i>হেঁচা<b/>খা</i><par n="লিথ__vblex"/></e>
+    <e lm="হেঁচ"><i>হেঁচ</i><par n="লিথ__vblex"/></e>
+    <e lm="দেখ"><i>দেখ</i><par n="লিথ__vblex"/></e>
+    <e lm="চা"><i>চা</i><par n="লিথ__vblex"/></e>
+    <e lm="দৌৰ"><i>দৌৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="গা ধু"><i>গা<b/>ধু</i><par n="লিথ__vblex"/></e>
+    <e lm="আছিল"><i>আছিল</i><par n="লিথ__vblex"/></e>
+    <e lm="ওলা"><i>ওলা</i><par n="লিথ__vblex"/></e>
+    <e lm="উলিয়া"><i>উলিয়া</i><par n="লিথ__vblex"/></e>
+    <e lm="ধৰ"><i>ধৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="ৰান্ধ"><i>ৰান্ধ</i><par n="লিথ__vblex"/></e>
+    <e lm="পঢ়"><i>পঢ়</i><par n="লিথ__vblex"/></e>
+    <e lm="চিনি পা"><i>চিনি<b/>পা</i><par n="লিথ__vblex"/></e>
+    <e lm="পিন্ধ"><i>পিন্ধ</i><par n="লিথ__vblex"/></e>
+    <e lm="ফাট"><i>ফাট</i><par n="লিথ__vblex"/></e>
+    <e lm="বাজ"><i>বাজ</i><par n="লিথ__vblex"/></e>
+    <e lm="বজা"><i>বজা</i><par n="লিথ__vblex"/></e>
+    <e lm="বনা"><i>বনা</i><par n="লিথ__vblex"/></e>
+    <e lm="বহ"><i>বহ</i><par n="লিথ__vblex"/></e>
+    <e lm="লাগ"><i>লাগ</i><par n="লিথ__vblex"/></e>
     <e lm="লাগে"><i>লাগে</i><par n="হয়_vbser"/></e>
-    <e lm="লিখ"><i>লিখ</i><par n="আহ_vblex"/></e>
-    <e lm="নিৰ্মাণ"><i>নিৰ্মাণ</i><par n="আহ_vblex"/></e>
-    <e lm="শাসন"><i>শাসন</i><par n="আহ_vblex"/></e>
-    <e lm="শু"><i>শু</i><par n="আহ_vblex"/></e>
-    <e lm="চিন্তা কৰ"><i>চিন্তা<b/>কৰ</i><par n="আহ_vblex"/></e>
-    <e lm="হাঁহ"><i>হাঁহ</i><par n="আহ_vblex"/></e>
+    <e lm="লিখ"><i>লিখ</i><par n="লিথ__vblex"/></e>
+    <e lm="নিৰ্মাণ"><i>নিৰ্মাণ</i><par n="লিথ__vblex"/></e>
+    <e lm="শাসন"><i>শাসন</i><par n="লিথ__vblex"/></e>
+    <e lm="শু"><i>শু</i><par n="লিথ__vblex"/></e>
+    <e lm="চিন্তা কৰ"><i>চিন্তা<b/>কৰ</i><par n="লিথ__vblex"/></e>
+    <e lm="হাঁহ"><i>হাঁহ</i><par n="লিথ__vblex"/></e>
     <e lm="হয়"><i>হয়</i><par n="হয়_vbser"/></e>
     <e lm="হ'ল"><i>হ'ল</i><par n="হয়_vbser"/></e>
     <e lm="হ'ব"><i>হ'ব</i><par n="হয়_vbser"/></e>
@@ -1394,9 +1394,9 @@
     <e lm="হ'ম"><i>হ'ম</i><par n="হয়_vbser"/></e>
     <e lm="ভাল পাওঁ"><i>ভাল<b/>পাওঁ</i><par n="হয়_vbser"/></e>
     <e lm="নকৰিবি"><i>নকৰিবি</i><par n="হয়_vbser"/></e>
-    <e lm="ৰ'"><i>ৰ'</i><par n="আহ_vblex"/></e>
-    <e lm="ল"><i>ল</i><par n="আহ_vblex"/></e>
-    <e lm="ক'"><i>ক'</i><par n="আহ_vblex"/></e>
+    <e lm="ৰ'"><i>ৰ'</i><par n="লিথ__vblex"/></e>
+    <e lm="ল"><i>ল</i><par n="লিথ__vblex"/></e>
+    <e lm="ক'"><i>ক'</i><par n="লিথ__vblex"/></e>
 
   <!-- pronouns -->
     <e lm="তুমি"><i>তুমি</i><par n="তুমি_prn"/></e>
