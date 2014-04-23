@@ -28,6 +28,7 @@
     <sdef n="cni2" c="Conditional 2"/> 
     <sdef n="ger" c="Gerund (verbal noun)"/> 
     <sdef n="inf" c="Infinitive"/> 
+    <sdef n="infml" c="Informal"/> 
     <sdef n="gna1" c="Verbal adverb"/> 
     <sdef n="inf2" c="Infinitive 2"/> 
     <sdef n="stem" c="Verb stem"/> 
@@ -227,27 +228,27 @@
       <e>       <p><l>িব</l><r><s n="vblex"/><s n="inf2"/></r></p></e>
       <e>       <p><l>িম</l><r><s n="vblex"/><s n="fti"/><s n="p1"/><s n="sp"/></r></p></e>
       <e>       <p><l>িবা</l><r><s n="vblex"/><s n="fti"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
-      <e>       <p><l>িবি</l><r><s n="vblex"/><s n="fti"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িবি</l><r><s n="vblex"/><s n="fti"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
       <e>       <p><l>িব</l><r><s n="vblex"/><s n="fti"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
       <e>       <p><l>িব</l><r><s n="vblex"/><s n="fti"/><s n="p3"/><s n="sp"/></r></p></e>
       <e>       <p><l>ো</l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sp"/></r></p></e>
       <e>       <p><l>া</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
-      <e>       <p><l></l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l></l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
       <e>       <p><l>ে</l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
       <e>       <p><l>ে</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলো</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলা</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
-      <e>       <p><l>িল</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িল</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলো</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছিলা</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
-      <e>       <p><l>িছিল</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছিল</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছিল</l><r><s n="vblex"/><s n="pii"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছিল</l><r><s n="vblex"/><s n="pii"/><s n="p3"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছো</l><r><s n="vblex"/><s n="prd"/><s n="p1"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছা</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
-      <e>       <p><l>িছ</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="inf"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িছ</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছে</l><r><s n="vblex"/><s n="prd"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
       <e>       <p><l>িছে</l><r><s n="vblex"/><s n="prd"/><s n="p3"/><s n="sp"/></r></p></e>
     </pardef>
