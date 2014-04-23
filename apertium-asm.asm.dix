@@ -62,6 +62,7 @@
     <sdef n="num"/>       <!-- numerals -->
     <sdef n="sent"/>       <!-- punctuation -->
 	<sdef n="post"/>        <!--Postposition-->
+<sdef n="ant"/>        <!--Anthroponym-->
     </sdefs>
 
   <pardefs>
@@ -178,12 +179,12 @@
     </pardef>
 
     <pardef n="names_n">
-      <e><p><l/><r><s n="np"/><s n="top"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ে</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="erg"/></r></p></e>
-      <e><p><l>ই</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="erg"/></r></p></e>
-      <e><p><l>ৱে</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="erg"/></r></p></e>
-      <e><p><l>ক</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p><l>ৰ</l><r><s n="np"/><s n="top"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l/><r><s n="np"/><s n="ant"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ে</l><r><s n="np"/><s n="ant"/><s n="sg"/><s n="erg"/></r></p></e>
+      <e><p><l>ই</l><r><s n="np"/><s n="ant"/><s n="sg"/><s n="erg"/></r></p></e>
+      <e><p><l>ৱে</l><r><s n="np"/><s n="ant"/><s n="sg"/><s n="erg"/></r></p></e>
+      <e><p><l>ক</l><r><s n="np"/><s n="ant"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ৰ</l><r><s n="np"/><s n="ant"/><s n="sg"/><s n="gen"/></r></p></e>
     </pardef>
     
     <pardef n="months_n">
