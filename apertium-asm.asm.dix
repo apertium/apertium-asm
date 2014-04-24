@@ -265,8 +265,8 @@
       <e>       <p><l>ে</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলো</l><r><s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলা</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="fam"/><s n="sp"/></r></p></e>
-      <e>       <p><l>িল</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="infml"/><s n="sp"/></r></p></e>
-      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pol"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িল</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="infml"/><s n="sp"/></r></p></e>
+      <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pol"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলে</l><r><s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sp"/></r></p></e>
       <e>       <p><l>িলো</l><r><s n="vblex"/><s n="pii"/><s n="p1"/><s n="sp"/></r></p></e>
 
@@ -288,7 +288,6 @@
       <e><p><l>গ'ই<b/>আছো</l><r>জা<s n="vblex"/><s n="prescont"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>'ই<b/>আছো</l><r><s n="vblex"/><s n="prescont"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>িলো</l><r><s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>আছিল</l><r><s n="vblex"/><s n="past"/><s n="p2"/><s n="sp"/></r></p></e>
       <e><p><l>ালো</l><r><s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>লো</l><r><s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>গ'লো</l><r>জা<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -1362,7 +1361,7 @@
     <e lm="হেৰা"><i>হেৰা</i><par n="লিথ__vblex"/></e>
     <e lm="খা"><i>খা</i><par n="লিথ__vblex"/></e>
     <e lm="গা"><i>গা</i><par n="আহ_vblex"/></e>
-    <e lm="আছিল"><i>আছিল</i><par n="আহ_vblex"/></e>
+
     <e lm="পৰ"><i>পৰ</i><par n="লিথ__vblex"/></e>
     <e lm="ঘট"><i>ঘট</i><par n="লিথ__vblex"/></e>
     <e lm="জা"><i>জা</i><par n="লিথ__vblex"/></e>
@@ -1391,7 +1390,7 @@
     <e lm="চা"><i>চা</i><par n="লিথ__vblex"/></e>
     <e lm="দৌৰ"><i>দৌৰ</i><par n="লিথ__vblex"/></e>
     <e lm="গা ধু"><i>গা<b/>ধু</i><par n="লিথ__vblex"/></e>
-    <e lm="আছিল"><i>আছিল</i><par n="লিথ__vblex"/></e>
+
     <e lm="ওলা"><i>ওলা</i><par n="লিথ__vblex"/></e>
     <e lm="উলিয়া"><i>উলিয়া</i><par n="লিথ__vblex"/></e>
     <e lm="ধৰ"><i>ধৰ</i><par n="লিথ__vblex"/></e>
