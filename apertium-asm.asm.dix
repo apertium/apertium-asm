@@ -32,6 +32,7 @@
     <sdef n="gna1" c="Verbal adverb"/> 
     <sdef n="inf2" c="Infinitive 2"/> 
     <sdef n="stem" c="Verb stem"/> 
+ <sdef n="cnjcoo" c="Co-ordinating conjunction"/> 
 
     <sdef n="sp" c="Singular/plural"/> 
 
@@ -43,6 +44,7 @@
 
     <sdef n="np"/>       <!-- proper nouns -->
     <sdef n="enc"/>       <!-- enclitics -->
+    <sdef n="det"/>       <!-- determiners -->
     <sdef n="vblex"/>       <!-- verb --> 
     <sdef n="vbser"/>       <!-- verb --> 
     <sdef n="pres"/>    <!-- present -->
@@ -82,12 +84,12 @@
       <e><p><l/><r><s n="post"/></r></p></e>
         </pardef>
 
-    <pardef n="টো_enc">
-      <e><p><l></l><r><s n="enc"/><s n="m"/></r></p></e>
+    <pardef n="টো_det">
+      <e><p><l></l><r><s n="det"/><s n="m"/></r></p></e>
     </pardef>
 
-    <pardef n="জনী_enc">
-      <e><p><l></l><r><s n="enc"/><s n="f"/></r></p></e>
+    <pardef n="জনী_det">
+      <e><p><l></l><r><s n="det"/><s n="f"/></r></p></e>
     </pardef>
 
     <pardef n="অপৰাধ_n">
@@ -121,6 +123,10 @@
       <e><p><l>ৰে</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="erg"/></r></p></e>
       <e><p><l>যুৰিত</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
     </pardef>
+
+	<pardef n="আৰু_cnjcoo">
+      <e><p><l/><r><s n="cnjcoo"/><s n="sp"/></r></p></e>
+	</pardef>
 
     <pardef n="গামোছা_n">
       <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -524,8 +530,101 @@
 
     <pardef n="হয়_vbser">
       <e><p><l/><r><s n="vbser"/></r></p></e>
-    </pardef>      
+    </pardef>  
+
+<!--Added May 3rd 2014 -->
+
+ <pardef n="ক্ষমতা_n">
+      <e><p><l/><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ৱে</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="erg"/></r></p></e>
+      <e><p><l>কেইটা</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>যুৰি</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ৰে</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="erg"/></r></p></e>
+      <e><p><l>যুৰিত</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+    </pardef>
+
+ <pardef n="নৈতিক_n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+    </pardef>
+
+<pardef n="মুখ_n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ে</l><r><s n="np"/><s n="ant"/><s n="sg"/><s n="erg"/></r></p></e>
+      <e><p><l>বোৰ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>বিলাক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>কেইটা</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ৰ</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>েৰে</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="erg"/></r></p></e>
+       <e><p><l>খিনি</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>খন</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+
+    </pardef>
+
+
+ <pardef n="যুক্তি_n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>বোৰ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>বিলাক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>বিলাকক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>কেইটা</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>কেইটাক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+       <e><p><l>বোৰক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>বোৰত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>বিলাকত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>কেইটাত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+    </pardef>
+
+ <pardef n="অভিযান_n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>খন</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ৰ</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>লৈ</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>বোৰ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e><p><l>বোৰৰ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>বিলাকৰ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e><p><l>বোৰলৈ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+    </pardef>
+
+<pardef n="পদ্ধতি_n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ে</l><r><s n="np"/><s n="ant"/><s n="sg"/><s n="erg"/></r></p></e>
+      <e><p><l>খন</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>খনত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>বোৰ</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>বোৰে</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>বিলাক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>বিলাকক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>কেইটা</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>কেইটাক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e><p><l>য়ে</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>কেইটাই</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+ <e><p><l>ৰে</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>কেইটাৰে</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e><p><l>বিলাকে</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>    
+   <e><p><l>বোৰক</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>বোৰত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>বিলাকত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>কেইটাত</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+    </pardef>
+<pardef n="পূর্ণতা_n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ৰ</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ত</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>ক</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ৰে</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>লৈ</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>য়ে</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    </pardef>
+
+    
     </pardefs>
+
+
 
   <section  id="main" type="standard">
   
@@ -555,13 +654,13 @@
 <!-- Postposition -->
     <e lm="পৰা"><i>পৰা</i><par n="post"/></e>
 
-  <!-- enclitics -->
-    <e lm="টো"><i>টো</i><par n="টো_enc"/></e>
-    <e lm="খন"><i>খন</i><par n="টো_enc"/></e>
-    <e lm="পাহ"><i>পাহ</i><par n="টো_enc"/></e>
-    <e lm="জন"><i>জন</i><par n="টো_enc"/></e>
-    <e lm="জনী"><i>জনী</i><par n="জনী_enc"/></e>
-    <e lm="গৰাকী"><i>গৰাকী</i><par n="জনী_enc"/></e>
+  <!-- determiners -->
+    <e lm="টো"><i>টো</i><par n="টো_det"/></e>
+    <e lm="খন"><i>খন</i><par n="টো_det"/></e>
+    <e lm="পাহ"><i>পাহ</i><par n="টো_det"/></e>
+    <e lm="জন"><i>জন</i><par n="টো_det"/></e>
+    <e lm="জনী"><i>জনী</i><par n="জনী_det"/></e>
+    <e lm="গৰাকী"><i>গৰাকী</i><par n="জনী_det"/></e>
 
   <!-- names -->
     <e lm="অঞ্জন"><i>অঞ্জন</i><par n="names_n"/></e>
@@ -1060,6 +1159,7 @@
     <e lm="হাতী"><i>হাতী</i><par n="বুৰঞ্জী_n"/></e>
     <e lm="হিন্দু"><i>হিন্দু</i><par n="বুৰঞ্জী_n"/></e>
 
+
   <!-- adjectives -->
     <e lm="অদ্ভূত"><i>অদ্ভূত</i><par n="অদ্ভূত_adj"/></e>
     <e lm="অন্যতম"><i>অন্যতম</i><par n="অদ্ভূত_adj"/></e>
@@ -1265,7 +1365,7 @@
     <e lm="এইফালে"><i>এইফালে</i><par n="যদি_ot"/></e>
     <e lm="এই কাৰণে"><i>এই<b/>কাৰণে</i><par n="যদি_ot"/></e>
     <e lm="সেই কাৰণে"><i>সেই<b/>কাৰণে</i><par n="যদি_ot"/></e>
-    <e lm="আৰু"><i>আৰু</i><par n="যদি_ot"/></e>
+    <e lm="আৰু"><i>আৰু</i><par n="আৰু_cnjcoo"/></e>
     <e lm="কি"><i>কি</i><par n="যদি_ot"/></e>
     <e lm="কিয়"><i>কিয়</i><par n="যদি_ot"/></e>
     <e lm="কাৰণ"><i>কাৰণ</i><par n="যদি_ot"/></e>
@@ -1458,5 +1558,69 @@
     <e lm="আমি"><i>আমি</i><par n="তুমি_prn"/></e>
     <e lm="আমাৰ"><i>আমাৰ</i><par n="তুমি_prn"/></e>
     <e lm="আমাক"><i>আমাক</i><par n="তুমি_prn"/></e>
+
+<!--Added May 3rd 2014 -->
+<e lm="ক্ষমতা"><i>ক্ষমতা</i><par n="ক্ষমতা_n"/></e>
+    <e lm="জঘন্য"><i>জঘন্য</i><par n="ক্ষমতা_n"/></e>
+    <e lm="তালিকা"><i>তালিকা</i><par n="চিকিৎসালয়_n"/></e>
+    <e lm="অৱস্থান"><i>অৱস্থান</i><par n="অপৰাধ_n"/></e>
+    <e lm="প্রেম"><i>প্রেম</i><par n="বুৰঞ্জী_n"/></e>
+    <e lm="ভাগ্য"><i>ভাগ্য</i><par n="বুৰঞ্জী_n"/></e>
+<e lm="চুম্বক"><i>চুম্বক</i><par n="বুৰঞ্জী_n"/></e>
+<e lm="মান"><i>মান</i><par n="অপৰাধ_n"/></e>
+<e lm="মেলেৰিয়া"><i>মেলেৰিয়া</i><par n="বুৰঞ্জী_n"/></e>
+<e lm="দুর্ব্যৱহাৰ"><i>দুর্ব্যৱহাৰ</i><par n="কৃষক_n"/></e>
+<e lm="ব্যৱস্থাপনা"><i>ব্যৱস্থাপনা</i><par n="অপৰাধ_n"/></e>
+<e lm="মেনেজাৰ"><i>মেনেজাৰ</i><par n="কৃষক_n"/></e>
+<e lm="মানুহ"><i>মানুহ</i><par n="যুক্তি_n"/></e>
+<e lm="পদ্ধতি"><i>পদ্ধতি</i><par n="পদ্ধতি_n"/></e>
+<e lm="মার্চ"><i>মার্চ</i><par n="months_n"/></e>
+<e lm="গাঁন্জা"><i>গাঁন্জা</i><par n="অপৰাধ_n"/></e>
+<e lm="বজাৰ"><i>বজাৰ</i><par n="চিকিৎসালয়_n"/></e>
+<e lm="বিয়া"><i>বিয়া</i><par n="চিকিৎসালয়_n"/></e>
+<e lm="বিবাহ"><i>বিবাহ</i><par n="অপৰাধ_n"/></e>
+<e lm="শান্তিৰক্ষা"><i>শান্তিৰক্ষা</i><par n="বুৰঞ্জী_n"/></e>
+<e lm="প্রভু"><i>প্রভু</i><par n="অধ্যাপক_n"/></e>
+<e lm="মিল"><i>মিল</i><par n="কলম_n"/></e>
+<e lm="সঙ্গী"><i>সঙ্গী</i><par n="অধ্যাপক_n"/></e>
+<e lm="পূর্ণতা"><i>পূর্ণতা</i><par n="পূর্ণতা_n"/></e>
+<e lm="মেয়ৰ"><i>মেয়ৰ</i><par n="কৃষক_n"/></e>
+<e lm="মাংস"><i>মাংস</i><par n="অপৰাধ_n"/></e>
+<e lm="অর্থ"><i>অর্থ</i><par n="অপৰাধ_n"/></e>
+<e lm="পদক"><i>পদক</i><par n="অপৰাধ_n"/></e>
+<e lm="মাধ্যম"><i>মাধ্যম</i><par n="অপৰাধ_n"/></e>
+<e lm="সদস্য"><i>সদস্য</i><par n="অধ্যাপক_n"/></e>
+<e lm="পর্দা"><i>পর্দা</i><par n="গামোছা_n"/></e>
+<e lm="স্মাৰকলিপি"><i>স্মাৰকলিপি</i><par n="অপৰাধ_n"/></e>
+<e lm="বার্তা"><i>বার্তা</i><par n="অপৰাধ_n"/></e>
+<e lm="মহানগৰ"><i>মহানগৰ</i><par n="চিকিৎসালয়_n"/></e>
+<e lm="গাখীৰ"><i>গাখীৰ</i><par n="অপৰাধ_n"/></e>
+<e lm="সহস্রাব্দ"><i>সহস্রাব্দ</i><par n="months_n"/></e>
+<e lm="মিনাৰ"><i>মিনাৰ</i><par n="places_n"/></e>
+<e lm="মন্ত্রী"><i>মন্ত্রী</i><par n="অধ্যাপক_n"/></e>
+<e lm="মন্ত্রণালয়"><i>মন্ত্রণালয়</i><par n="চিকিৎসালয়_n"/></e>
+<e lm="মিনিট"><i>মিনিট</i><par n="বুৰঞ্জী_n"/></e>
+<e lm="ক্ষেপণাস্ত্র"><i>ক্ষেপণাস্ত্র</i><par n="অপৰাধ_n"/></e>
+<e lm="আয়না"><i>আয়না</i><par n="গামোছা_n"/></e>
+<e lm="অভিযান"><i>অভিযান</i><par n="অভিযান_n"/></e>
+<e lm="মোবাইল"><i>মোবাইল</i><par n="গামোছা_n"/></e>
+<e lm="পৰিহাস"><i>পৰিহাস</i><par n="অভিযান_n"/></e>
+<e lm="পৰিৱর্তন"><i>পৰিৱৱর্তন</i><par n="অপৰাধ_n"/></e>
+<e lm="ৰাজা"><i>ৰাজা</i><par n="অধ্যাপক_n"/></e>
+<e lm="টকা"><i>টকা</i><par n="অপৰাধ_n"/></e>
+<e lm="বান্দৰ"><i>বান্দৰ</i><par n="অপৰাধ_n"/></e>
+<e lm="মাহ"><i>মাহ</i><par n="অপৰাধ_n"/></e>
+<e lm="নৈতিক"><i>নৈতিক</i><par n="নৈতিক_n"/></e>
+<e lm="ৰাতিপুৱা"><i>ৰাতিপুৱা</i><par n="চিকিৎসালয়_n"/></e>
+<e lm="মা"><i>মা</i><par n="অপেশ্বৰী_n"/></e>
+<e lm="পর্বত"><i>পর্বত</i><par n="চিকিৎসালয়_n"/></e>
+<e lm="মুখ"><i>মুখ</i><par n="মুখ_n"/></e>
+<e lm="চলাচল"><i>চলাচল</i><par n="পদ্ধতি_n"/></e>
+<e lm="আন্দোলন"><i>আন্দোলন</i><par n="পদ্ধতি_n"/></e>
+<e lm="চলচ্চিত্র"><i>চলচ্চিত্র</i><par n="পদ্ধতি_n"/></e>
+<e lm="হত্যা"><i>হত্যা</i><par n="পদ্ধতি_n"/></e>
+<e lm="জাদুঘৰ"><i>জাদুঘৰ</i><par n="চিকিৎসালয়_n"/></e>
+
+
   </section>
 </dictionary>
